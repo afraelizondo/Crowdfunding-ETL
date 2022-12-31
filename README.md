@@ -41,4 +41,13 @@ Extracting and sorting the necessary data, and a Data Frame was created with it.
 
 <img width="436" alt="Screen Shot 2022-12-30 at 10 49 41 PM" src="https://user-images.githubusercontent.com/113856917/210125294-fd7c514f-d06f-4093-a0ea-ce4ed605c7ca.png">
 
+The SQL analysis was performed to get the remaining goal amount for all "live campaigns", as well as obtain the exact of goal of the mentioned campaigns. 
+
+
+left<img width="515" alt="Screen Shot 2022-12-30 at 10 51 59 PM" src="https://user-images.githubusercontent.com/113856917/210125347-5d6793d4-bbab-4937-93ab-510366642b34.png">
+
+<img width="1285" alt="Screen Shot 2022-12-30 at 10 52 53 PM" src="https://user-images.githubusercontent.com/113856917/210125358-aa844ae1-69ca-422d-a8e2-b6d8fe9ba349.png">
+
+
+
 
