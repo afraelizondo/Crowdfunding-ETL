@@ -2,7 +2,7 @@
 
 ## Overview 
 
-Independent Funding is a crowdfunding platform for funding independent projects or ventures, and over the last years, it has been growing. Due to this fact, it needs to mobe data from Excel to a PostgreSQL database, as it is more convenient for them. So the analytics team will be able to perform more efficient analysis and reports for company stakeholders and possible donors. 
+Independent Funding is a crowdfunding platform for funding independent projects or ventures, and over the last years, it has been growing. Due to this fact, it needs to move data from Excel to a PostgreSQL database, as it is more convenient for them. So the analytics team will be able to perform more efficient analysis and reports for company stakeholders and possible donors. 
 
 ## Expected outcomes 
 
