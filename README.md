@@ -33,3 +33,12 @@ The current dataset includes the following data about the crowdfunding projects:
 
 ## Results
 
+Performance of an ERD to have a solid base to work on. 
+
+<img width="935" alt="Screen Shot 2022-12-30 at 10 28 12 PM" src="https://user-images.githubusercontent.com/113856917/210125253-b9e58e1d-8569-426b-9c6d-6e582d43c40b.png">
+
+Extracting and sorting the necessary data, and a Data Frame was created with it. 
+
+<img width="436" alt="Screen Shot 2022-12-30 at 10 49 41 PM" src="https://user-images.githubusercontent.com/113856917/210125294-fd7c514f-d06f-4093-a0ea-ce4ed605c7ca.png">
+
+
